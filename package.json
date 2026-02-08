@@ -1,0 +1,29 @@
+{
+  "name": "savethetokens",
+  "version": "1.0.0",
+  "description": "Claude Code skill to reduce token burn with proactive compacting, context pruning, and session hygiene",
+  "bin": {
+    "savethetokens": "bin/cli.js"
+  },
+  "scripts": {
+    "postinstall": "node bin/install.js",
+    "preuninstall": "node bin/uninstall.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "tokens",
+    "context",
+    "optimization",
+    "skill"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redclawww/savethetokens.git"
+  },
+  "homepage": "https://github.com/Redclawww/savethetokens#readme",
+  "engines": {
+    "node": ">=14"
+  }
+}

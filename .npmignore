@@ -1,0 +1,8 @@
+savethetokens-web/
+__pycache__/
+*.pyc
+till now.md
+.git/
+.gitignore
+node_modules/
+*.tgz

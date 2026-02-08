@@ -19,7 +19,7 @@ Includes 25 Python scripts and 13 reference docs.
 ## Install
 
 ```bash
-npx skills add Redclawww/save-the-tokens -g
+npx skills add Redclawww/savethetokens -g
 ```
 
 This installs the skill globally and symlinks it to Claude Code (and 30+ other agents). No extra setup needed.
